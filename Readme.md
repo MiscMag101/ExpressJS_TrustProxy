@@ -71,7 +71,7 @@ $ PROXY=192.168.Y.Z npm start
 
 Where "192.168.Y.Z" is the IP Address for "proxy.example.com" and the hostname of the application server must be "app.example.com"
 
-# Test
+## Test
 
 Open these pages in your browser :
 
